@@ -1,6 +1,6 @@
 numpy
 pandas
-tensorflow==2.15.0
+tensorflow==2.20.0
 keras>=2.15.0
 keras_applications>=1.0.7
 opencv-python>=4.9.0
